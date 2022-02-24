@@ -1,0 +1,22 @@
+
+.Myform{
+    width:600px;
+    background-color: rgba(0,0,0.5);
+    margin:auto;
+    color:#fff;
+    margin:10px auto;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+    height:90vh;
+}
+
+.hidden{
+    display: none;
+}
+.space{
+    color:orange;
+    font-family: 'Pacifico', cursive;
+}
+.labelfont{
+    font-family: 'Pacifico', cursive;
+}

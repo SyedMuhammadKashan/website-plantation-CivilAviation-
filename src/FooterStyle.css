@@ -1,0 +1,43 @@
+#para1{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 14px;
+}
+
+.list-unorder {
+    list-style: none;
+    text-decoration: none;
+   display: flex;
+      font-size:26px;
+}
+.list-unorder li a {
+color:lightgray;
+
+
+
+width:60px;
+height:60px;
+border-radius: 50%;
+background-color: #fff;
+text-align:center;
+display: block;
+transition: .6s;
+
+}
+.list-unorder li:nth-child(1) a:hover {
+  background-color:#3b5998 ;
+}
+.list-unorder li:nth-child(2) a:hover {
+    background-color:#55acee ;
+  }
+  .list-unorder li:nth-child(3) a:hover {
+   background-color:orange;
+  }
+  .about{
+    font-family: 'Pacifico', cursive;
+  }
+  .contact{
+    font-family: 'Pacifico', cursive;
+  }
+  .useful{
+    font-family: 'Pacifico', cursive;
+  }

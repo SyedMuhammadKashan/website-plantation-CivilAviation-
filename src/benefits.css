@@ -1,0 +1,18 @@
+*{
+    padding:0px;
+    margin:0px;
+  
+}
+body{
+    background-image: url("./pictures/benefitback.jpg");
+    background-size: cover;
+   
+    height:auto;
+}
+.font{
+    font-family: 'Pacifico', cursive;
+}
+#h1{
+    font-family: 'Pacifico', cursive;
+    color: midnightblue;
+}
